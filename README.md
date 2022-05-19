@@ -1,8 +1,8 @@
-- Hey, I’m Prabal! 👋
-- I'm a CSE Sophomore at SGSITS Indore.
-- Currently learning and developing my skills through different web development projects.
-- I'm much interested in problem solving and and competitive coding as well.
-- <b> <h2> Reach me at:
+ <h1> Hey, I’m Prabal! 👋 </h1>
+- I'm a CSE Sophomore at SGSITS Indore.<br>
+- Currently learning and developing my skills through different web development projects.<br>
+- I'm much interested in problem solving and and competitive coding as well.<br>
+ <b> <h2> Reach me at: </h2> 
 - https://www.linkedin.com/in/prabal-pophaley-42a09921b/
 
 <!---
