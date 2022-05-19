@@ -1,9 +1,10 @@
  <h1> Hey, I’m Prabal! 👋 </h1>
-- I'm a CSE Sophomore at SGSITS Indore.<br>
-- Currently learning and developing my skills through different web development projects.<br>
-- I'm much interested in problem solving and and competitive coding as well.<br>
+<li> I'm a CSE Sophomore at SGSITS Indore.<br> </li>
+<li> Currently learning and developing my skills through different web development projects.<br></li>
+<li> I'm much interested in problem solving and and competitive coding as well.<br></li>
+<br>
  <b> <h2> Reach me at: </h2> 
-- https://www.linkedin.com/in/prabal-pophaley-42a09921b/
+<li> https://www.linkedin.com/in/prabal-pophaley-42a09921b/ </li>
 
 <!---
 praball/praball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
