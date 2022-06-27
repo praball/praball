@@ -5,6 +5,7 @@
 <br>
  <b> <h2> Reach me at: </h2> 
 <li> https://www.linkedin.com/in/prabal-pophaley-42a09921b/ </li>
+ <li>https://prabalpophaley02.netlify.app/ </li>
 
 <!---
 praball/praball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
