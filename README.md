@@ -1,4 +1,9 @@
- <h1> Hey, I’m Prabal! 👋 </h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+ 
+ <h1> Hey, I’m Prabal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3.5%"/></h1>
+ <img src="https://komarev.com/ghpvc/?praball&style=flat-square&color=blue" alt=""/>
 <li> I'm a CSE Sophomore at SGSITS Indore.<br> </li>
 <li> Currently learning and developing my skills through different web development projects.<br></li>
 <li> I'm much interested in problem solving and and competitive coding as well.<br></li>
