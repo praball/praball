@@ -35,6 +35,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=praball&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praball&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <br>
  <b> <h2> :mailbox: Reach me at: </h2> 
 <li> https://www.linkedin.com/in/prabal-pophaley-42a09921b/ </li>
