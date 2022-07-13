@@ -28,7 +28,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Jquery" alt="Jquery" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>
+    <img src="https://symbols.getvecta.com/stencil_87/13_leaflet-icon.42a8eba149.svg" title="Leaflet" alt="Leaflet" width="40" height="40"/>
 </div>
 <h2>Stats: </h2>
 
