@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=praball&style=flat-square&color=blue" align="center" alt=""/> </h1>
  
 
-<li> I'm a CSE Sophomore at SGSITS Indore.<br> </li>
+<li> I'm a CSE Undergrad at SGSITS Indore.<br> </li>
 <li> Currently learning and developing my skills through different web development projects.<br></li>
 <li> I'm much interested in problem solving and competitive coding as well.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
