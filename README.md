@@ -30,7 +30,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Jquery" alt="Jquery" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F353991%2Fleaflet&psig=AOvVaw04vEtka7-RE9kh__FO97hL&ust=1669815021371000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi2tPm_0_sCFQAAAAAdAAAAABAE" title="Leaflet" alt="Leaflet" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/353991/leaflet.svg" title="Leaflet" alt="Leaflet" width="40" height="40"/>
 </div>
 <h2>Stats: </h2>
 
