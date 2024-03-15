@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=praball&style=flat-square&color=blue" align="center" alt=""/> </h1>
  
 
-<li> I'm a CSE Undergrad at SGSITS Indore.<br> </li>
+<li> I'm a CSE Final year grad at SGSITS Indore.<br> </li>
 <li> Currently learning and developing my skills through different web development projects.<br></li>
 <li> I'm much interested in problem solving and competitive coding as well.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
@@ -47,7 +47,8 @@
 <br>
  <b> <h2> :mailbox: Reach me at: </h2> 
 <li> https://www.linkedin.com/in/prabal-pophaley-42a09921b/ </li>
- <li>https://prabalpophaley02.netlify.app/ </li>
+<li>https://prabalpophaley02.netlify.app/ </li>
+<li>https://www.codechef.com/users/praball_02</li> 
 
 <!---
 praball/praball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
