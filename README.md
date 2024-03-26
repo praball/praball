@@ -6,8 +6,7 @@
 <li> I'm a CSE Final year grad at SGSITS Indore.<br> </li>
 <li> Currently learning and developing my skills through different web development projects.<br></li>
 <li> I'm much interested in problem solving and competitive coding as well.
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-</li>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br></li>
 
 <div>
   <hr>
