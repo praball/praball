@@ -45,6 +45,7 @@
 
 <br>
  <b> <h2> :mailbox: Reach me at: </h2> 
+  <li> prabalpophaley@gmail.com </li>
 <li> https://www.linkedin.com/in/prabal-pophaley-42a09921b/ </li>
 <li>https://prabalpophaley02.netlify.app/ </li>
 <li>https://www.codechef.com/users/praball_02</li> 
