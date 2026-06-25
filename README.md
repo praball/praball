@@ -3,9 +3,11 @@
 <img src="https://komarev.com/ghpvc/?username=praball&style=flat-square&color=blue" align="center" alt=""/> </h1>
  
 
-<li> I'm a CSE Final year grad at SGSITS Indore.<br> </li>
-<li> Currently learning and developing my skills through different web development projects.<br></li>
-<li> I'm much interested in problem solving and competitive coding as well.
+<li> Backend Software Engineer at Deutsche Bank AG, Pune, India.<br></li>
+<li> Specializing in Java, Spring Boot, Kafka, and Microservices with experience in enterprise backend systems, event-driven architectures, workflow automation, and large-scale data archival solutions.<br></li>
+<li> Contributed to platform modernization, Salesforce integrations, and cloud-native applications with a focus on scalability, reliability, and operational excellence.<br></li>
+<li> Passionate about distributed systems, software architecture, and solving complex engineering challenges.<br></li>
+<br>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br></li>
 
 <div>
