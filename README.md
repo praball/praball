@@ -7,7 +7,7 @@
 <li> Specializing in Java, Spring Boot, Kafka, and Microservices with experience in enterprise backend systems, event-driven architectures, workflow automation, and large-scale data archival solutions.<br></li>
 <li> Contributed to platform modernization, Salesforce integrations, and cloud-native applications with a focus on scalability, reliability, and operational excellence.<br></li>
 <li> Passionate about distributed systems, software architecture, and solving complex engineering challenges.<br></li>
-<br>
+<li> I love to workout, read, code, learn, grow, watch Chernobyl, play guitar and chill. </li>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br></li>
 
 <div>
